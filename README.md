@@ -1,7 +1,8 @@
 ### Greetings. Welcome to my GitHub profile.
 
 ```
-I live in the terminal```
+I live in the terminal
+```
 
 <!--
 **SametAhmetSahin/SametAhmetSahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
