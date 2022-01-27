@@ -4,6 +4,7 @@
 > I'm a student at the Kocaeli University and my major is Computer Science, referred to as Computer Engineering officially.
 > I'm planning to become a Linux SysAdmin, and do GameDev as a hobby.
 > Terminal is cool.
+> _
 ```
 
 <!--
