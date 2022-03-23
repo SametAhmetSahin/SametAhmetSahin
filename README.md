@@ -2,10 +2,11 @@
 
 ```
 > I'm a freshman at the Kocaeli University and my major is Computer Science, referred to as Computer Engineering officially.
-> I'm planning to become a Linux SysAdmin, and do GameDev as a hobby.
-> I currently manage a production server for my school, create and provide solutions and services for the users.
+> I'm planning to become a Linux SysAdmin, and do GameDev as a hobby. Although it looks like my current job is also going out of its path for devops and IT in general.
+> I currently manage a production server for my school, and I create and provide solutions and services for the users.
 > I use Godot for game development.
 > Terminal is cool. And efficient.
+> And so is Linux.
 > _
 ```
 
