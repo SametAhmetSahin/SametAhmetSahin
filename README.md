@@ -6,7 +6,7 @@
 > I currently manage a production server for my school, and I create and provide solutions and services for the users.
 > I use Godot for game development.
 > Terminal is cool. And efficient.
-> And so is Linux.
+> And so is Linux. I Like Linux.
 > _
 ```
 
